@@ -2,3 +2,5 @@ SQL - 1: DDL
       2: DML
       3: DCL
       4: TCL
+DDL - Part of SQL used to define database objects.
+    - Ex: create,update,delete,alter
